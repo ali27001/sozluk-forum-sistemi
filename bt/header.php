@@ -13,7 +13,8 @@
 			<div class="container-fluid">
 			 <div class="navbar-bland">
 				 <a href="index.php">
-				<img class="w-50" href="#" src="http://gezginsozluk.org/images/static/logo.png"> </a>
+				<img class="w-50" href="#" src="https://i.hizliresim.com/D7BDd1.png"> </a> 
+			
 			 </div>
 			 <form class="form-inline">
 				 <input class="form-control mr-sm-2" type="search" placeholder="@yazar,#içerik" aria-label="Search">
