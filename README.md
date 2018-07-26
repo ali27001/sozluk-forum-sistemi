@@ -3,4 +3,5 @@ Ekşi sözlük vb sistemlere benzeyen bir web uygulaması yapmaya çalıştım.A
 ---------
 I tried to make a web application that looks like a forum etc. systems. I am learning php and html, csss, ajax. I wrote the spaghetti code. So I made such an experiment
 --------
-Arayüz şu şekilde ![ekran görüntüsü](https://i.hizliresim.com/azdYNz.png "SS") 
+
+Arayüz şu şekilde   https://i.hizliresim.com/azdYNz.png
